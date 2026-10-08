@@ -1,0 +1,7 @@
+
+product_id,product_name,category,supplier_id,unit_price,unit_cost
+P001,Classic Bagel,Bakery,SUP01,5.50,2.10
+P002,Breakfast Sandwich,Food,SUP02,7.25,3.15
+P003,Iced Coffee,Beverages,SUP03,4.75,1.80
+P004,Turkey Sandwich,Food,SUP02,6.50,2.70
+P005,Bottled Water,Beverages,SUP03,3.25,1.10
